@@ -1,0 +1,30 @@
+body {
+  background-color: #87CEFA;
+}
+/*Для шапки сайта*/
+.header {
+  padding: 20px;
+  text-align: center;
+  background-color:#FFFF00; /*(Поменять)*/
+}
+/* Для навигационной панели*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #E0FFFF;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #00BFFF;
+}
+.serch {
+  float: right;
+}

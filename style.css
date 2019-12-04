@@ -1,13 +1,14 @@
 body {
   background-color: #87CEFA;
 }
-/*Для шапки сайта*/
+
 .header {
   padding: 20px;
   text-align: center;
-  background-color:#FFFF00; /*(Поменять)*/
+  background-color:#4169E1;
+  color: #ADD8E6; 
 }
-/* Для навигационной панели*/
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -28,3 +29,71 @@ li a:hover {
 .serch {
   float: right;
 }
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+
+.column.side {
+  width: 45%;
+}
+.column.middle {
+  width: 45%;
+}
+.card {
+   background-color: #87CEFA;
+  padding: 20px;
+  margin-top: 20px;
+
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+
+.newimg {
+  background-image: url(http://mtur76.ru/images/slider/turizm_yaroslavl_1.jpg);
+  width: 93%;
+  padding: 20px;
+  height: 300px;
+  margin-left: 2%;
+
+}
+
+.footer {
+   margin-top: 3%; 
+  background-color: #E0FFFF;
+  padding: 5px;
+
+
+  display: block;
+}
+
+.center {
+  text-align:  center;
+ }
+.border {
+  border: 0px;
+  padding-bottom: 3%;
+  background-color: #AFEEEE;
+}
+.clearfix {
+  overflow: auto;
+}
+.img1 {
+  float: left;
+  width: 40%;
+  height: 250px;
+}
+ .text2 {
+  float: right;
+   width: 55%;
+   padding-right: 3%;
+      padding-top: 2%;
+ }

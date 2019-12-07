@@ -7,13 +7,14 @@
 </head>
 <body>
   <div class="header">
-   <h1 class="mainpage"> (Название организации + слоган?)</h1>
+   <h1 class="mainpage">  Coral Travel</h1>
+      <h2>Ваш отдых в надежных руках!</h2>
 </div>
   <ul>
   <li><a href="index.php" style="float:left">Главная</a></li>
   <li><a href="sales.php" style="float:left">Акции</a></li>
   <li><a href="list.php" style="float:left">Туры</a></li>
-  <li><a href="info.php" style="float:left">О нас</a></li>
+  <li><a href="info.php" style="float:left">Контакты</a></li>
    <li><a href="#" style="float:right">Войти</a></li>
    <form class="serch">
    <p><input type="search" name="q" placeholder="Поиск по сайту" > 

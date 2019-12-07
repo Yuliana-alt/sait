@@ -7,19 +7,27 @@
 </head>
 <body>
   <div class="header">
-   <h1 class="mainpage"> (Название организации + слоган?)</h1>
+   <h1 class="mainpage"> Coral Travel</h1>
+   <h2>Ваш отдых в надежных руках!</h2>
 </div>
   <ul>
   <li><a href="index.php" style="float:left">Главная</a></li>
   <li><a href="sales.php" style="float:left">Акции</a></li>
   <li><a href="list.php" style="float:left">Туры</a></li>
-  <li><a href="info.php" style="float:left">О нас</a></li>
+  <li><a href="info.php" style="float:left">Контакты</a></li>
    <li><a href="#" style="float:right">Войти</a></li>
    <form class="serch">
    <p><input type="search" name="q" placeholder="Поиск по сайту" > 
    <input type="submit" value="Найти"></p>
   </form>
 </ul>
-<p> Информация о компании</p>
+<p> Наш адресс :107045, г. Москва, ул. Трубная площадь, д. 2, ТЦ «Неглинная Галерея», -1 этаж
+</p>
+<p> <img src="https://business-asset.com/upload/staticMaps/1a083a0a0dd5206b7f9ebdca36572317.png"></p>
+<div class="footer">
+  <h3>Контакты:</h3>
+  <h5>Наш email: Yuliana.nevzorova@yandex.ru</h5>
+<h5>Наш телефон: +7(919) *** ** **</h5>
+</div>
 </body>
 </html>

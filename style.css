@@ -1,154 +1,148 @@
 body {
-  background-color: #87CEFA;
+background-color: #87CEFA;
 }
 
 .header {
-  padding: 20px;
-  text-align: center;
-  background-color:#4169E1;
-  color: #ADD8E6; 
+padding: 20px;
+text-align: center;
+background-color:#4169E1;
+color: #ADD8E6;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #E0FFFF;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #E0FFFF;
 }
 li a {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
 }
 li a:hover {
-  background-color: #00BFFF;
+background-color: #00BFFF;
 }
 .serch {
-  float: right;
+float: right;
 }
 
 .column {
-  float: left;
-  padding: 10px;
+float: left;
+padding: 10px;
 }
 
 
 .column.side {
-  width: 45%;
+width: 45%;
 }
 .column.middle {
-  width: 45%;
+width: 45%;
 }
 .card {
-   background-color: #87CEFA;
-  padding: 20px;
-  margin-top: 20px;
+background-color: #87CEFA;
+padding: 20px;
+margin-top: 20px;
 
 }
 
 .row:after {
-  content: "";
-  display: table;
-  clear: both;
+content: "";
+display: table;
+clear: both;
 
 }
 
 
 .newimg {
-  background-image: url(http://mtur76.ru/images/slider/turizm_yaroslavl_1.jpg);
-  width: 93%;
-  padding: 20px;
-  height: 300px;
-  margin-left: 2%;
+background-image: url(http://mtur76.ru/images/slider/turizm_yaroslavl_1.jpg);
+width: 93%;
+padding: 20px;
+height: 300px;
+margin-left: 2%;
 
 }
 
 .footer {
-   margin-top: 3%; 
-  background-color: #E0FFFF;
-  padding: 5px;
+margin-top: 3%;
+background-color: #E0FFFF;
+padding: 5px;
 
 
-  display: block;
+display: block;
 }
 
 .center {
-  text-align:  center;
- }
+text-align: center;
+}
 .border {
-  border: 0px;
-  padding-bottom: 3%;
-  background-color: #AFEEEE;
+border: 0px;
+padding-bottom: 3%;
+background-color: #AFEEEE;
 }
 .clearfix {
-  overflow: auto;
+overflow: auto;
 }
 .img1 {
-  float: left;
-  width: 40%;
-  height: 250px;
+float: left;
+width: 40%;
+height: 250px;
 }
- .text2 {
-  float: right;
-   width: 55%;
-   padding-right: 3%;
-      padding-top: 2%;
- }
- .warn {
-  margin-left: 13%;
-    font-size: 16pt;
+.text2 {
+float: right;
+width: 55%;
+padding-right: 3%;
+padding-top: 2%;
+}
+.warn {
+margin-left: 13%;
+font-size: 16pt;
 }
 .img1st {
-  background-image: url(http://anukitravel.ru/luchshie_oteli_turcii_2012_3.jpg);
-  width: 60%;
-  padding: 20px;
-  height: 400px;
-  margin-left: 18%;
+background-image: url(https://r-cf.bstatic.com/images/hotel/max1024x768/181/181518321.jpg);
+width: 60%;
+padding: 20px;
+height: 400px;
+margin-left: 18%;
 }
 .img2nd {
-  background-image: url(https://cdn-1.motorsport.com/images/amp/0oOkgbx0/s6/kirill-smal-1.jpg);
-  width: 50%;
-  padding: 20px;
-  height: 400px;
-  margin-left: 23%;
+background-image: url(https://www.tourdom.ru/upload/iblock/5e3/5e3288f5a38dd3e436efa60b82258118.jpg);
+width: 50%;
+padding: 20px;
+height: 400px;
+margin-left: 23%;
 }
 .img3rd {
-  background-image: url(https://cdn-1.motorsport.com/images/amp/6bpAWQn2/s6/f1-monaco-gp-2018-felipe-massa-8530266.jpg);
-  width: 50%;
-  padding: 20px;
-  height: 400px;
-  margin-left: 23%;
+background-image: url(https://moscow-marriott-grand-hotel.moscow-hotels.org/data/Photos/767x460/7471/747196/747196202.JPEG);
+width: 50%;
+padding: 20px;
+height: 400px;
+margin-left: 23%;
 }
 .img4th {
-  background-image: url(https://cdn-1.motorsport.com/images/amp/25ed7Z92/s6/kart-fwt-rotax-max-challenge-palm-beach-2016-sebastian-montoya-7450071.jpg);
-  width: 50%;
-  padding: 20px;
-  height: 400px;
-  margin-left: 23%;
+background-image: url(http://www.atorus.ru/public/ator/data/ad0055.jpg);
+width: 50%;
+padding: 20px;
+height: 400px;
+margin-left: 23%;
 }
+
 .img5th {
-  background-image: url(https://cdn-1.motorsport.com/images/amp/YvbG8BnY/s6/kart-24h-de-dubai-2017-fernando-alonso-david-vidales-pedro-de-la-rosa-angel-burgueno-en-d-6842276.jpg);
-  width: 50%;
-  padding: 20px;
-  height: 400px;
-  margin-left: 23%;
-}
-.img6th {
-  background-image: url(https://cdn-1.motorsport.com/static/img/amp/800000/890000/897000/897000/897096/s6_4035638/f1-fernando-alonso-museum-and-circuit-2015-the-fernando-alonso-museum-and-circuit.jpg);
-  width: 50%;
-  padding: 20px;
-  height: 400px;
-  margin-left: 23%;
+background-image: url(https://guruturizma.ru/wp-content/uploads/2018/12/Colonna-Grand-Hotel-Capo-Testa1.jpg);
+width: 50%;
+padding: 20px;
+height: 400px;
+margin-left: 23%;
 }
 .newstext {
-  width: 60%;
-  margin-left: 20%;
-  margin-right: 20%;
-  font-size: 14pt;
+width: 60%;
+margin-left: 20%;
+margin-right: 20%;
+font-size: 14pt;
 }
 .comments1 {
-  background-color: #FFFFE0;
+background-color: #6495ED;
 }
